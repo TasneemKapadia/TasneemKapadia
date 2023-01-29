@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @TasneemKapadia
-- 👀 I’m interested in Machine learning and Data analysis 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking for job opportunities (internships included) to kickstart my data career
+- 👀 I’m working as a Business Analyst, currently learning about Machine learning
+- 🌱 Experience in SQL, PowerBi 
 - 📫 How to reach me : tasneemkap@gmail.com
-
+- Open to freelance projects, new job opportunites to keep growing and learing
 <!---
 TasneemKapadia/TasneemKapadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
