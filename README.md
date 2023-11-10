@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TasneemKapadia
 - 👀 I’m working as a Business Analyst, currently learning about Machine learning
-- 🌱 Experience in SQL, PowerBi 
+- 🌱 Experienced in SQL, PowerBi , Python
 - 📫 How to reach me : tasneemkap@gmail.com
 - Open to freelance projects, new job opportunites to keep growing and learing
 <!---
